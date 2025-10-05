@@ -36,11 +36,9 @@ while True:
 
              print('Error! | Can not Divide by Zero')
 
-        else:
+    else:
 
-           print('Invalid Input')                            
-
-    
+           print('Invalid input please enter a number from 1-5')
 
 
-    
+
